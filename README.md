@@ -63,7 +63,7 @@ This project implements a **self-aware circuit breaker** that predicts current s
 ## Software Setup
 
 1. **Arduino Code**
-   - Upload `software/arduino/main.ino` to the Arduino Uno.
+   - Upload `jn6_arduino.ino` to the Arduino Uno.
    - This code receives `"ON"` or `"OFF"` commands via serial and switches the SSR accordingly.
 
 2. **Python Simulation**
